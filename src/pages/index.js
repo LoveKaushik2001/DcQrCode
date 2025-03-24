@@ -13,7 +13,7 @@ const menuItems = [
   },
   {
     name: "Theple",
-    description: "A classic, flavorful treat from Gujarat! ✨ Thepla is a soft, spiced, and healthy flatbread, made with wheat flour, fresh methi (fenugreek), and aromatic spices—perfect for a nutritious meal or a trave ...Read More",
+    description: "A classic, flavorful treat from Gujarat! ✨ Thepla is a soft, spiced, and healthy flatbread, made with wheat flour, fresh methi (fenugreek), and aromatic spices—perfect for a nutritious meal or a travel-friendly snack!🥙",
     price: "Rs. 80",
     image: "/uploads/theple.JPG"
   },
@@ -72,7 +72,7 @@ const IndexPage = () => {
       </Helmet>
       
       {/* Hero Section - Improved Mobile Responsiveness */}
-      <section className="relative min-h-screen flex items-center justify-center bg-gradient-to-b from-green-50 to-white px-4 sm:px-6 lg:px-8 py-12">
+      <section className="relative min-h-screen flex items-center justify-center bg-gradient-to-b from-green-50 to-white px-4 sm:px-6 lg:px-8 py-1">
         <div className="text-center max-w-3xl mx-auto">
           <img src="/uploads/logo.png" alt="DrinkCart" className="w-24 sm:w-32 mx-auto mb-6" />
           <div className="mb-10">
