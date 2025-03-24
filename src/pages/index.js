@@ -9,19 +9,19 @@ const menuItems = [
     name: "Glorious Red",
     description: "✨ A powerhouse of freshness! 🍏❤️ Glorious Red is a vibrant blend of Apple, Beetroot, and Carrot—naturally sweet, nutrient-packed, and refreshingly delicious! 🥤💪",
     price: "Rs. 70",
-    image: "/uploads/gloriousRed.png"
+    image: "/uploads/gloriousRed.PNG"
   },
   {
     name: "Theple",
     description: "A classic, flavorful treat from Gujarat! ✨ Thepla is a soft, spiced, and healthy flatbread, made with wheat flour, fresh methi (fenugreek), and aromatic spices—perfect for a nutritious meal or a trave ...Read More",
     price: "Rs. 80",
-    image: "/uploads/theple.jpg"
+    image: "/uploads/theple.JPG"
   },
   {
     name: "Sprout Salad",
     description: "🥦 Short Description: A crunchy, protein-packed delight! 🥗 Sprout Salad is a nutritious mix of Chana, Corn, Kheera, Gajar, Paneer, and homemade sauces, perfect for a healthy & fulfilling meal! 🌽🥕",
     price: "Rs. 80",
-    image: "/uploads/sprout.jpg"
+    image: "/uploads/sprout.JPG"
   },
   {
     name: "Healthy Choclates",
